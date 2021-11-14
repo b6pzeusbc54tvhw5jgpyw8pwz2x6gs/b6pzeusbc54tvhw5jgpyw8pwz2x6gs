@@ -1,23 +1,24 @@
 # 유병화 (Alfred, Yoo)
 
-> 본 이력서는 아래 주소에서 최신 업데이트본을 확일 할 수 있습니다:
-
+> 본 이력서는 아래 주소에서 최신 업데이트본을 확인 할 수 있습니다:
 > https://github.com/b6pzeusbc54tvhw5jgpyw8pwz2x6gs/b6pzeusbc54tvhw5jgpyw8pwz2x6gs/blob/add-resume/RESUME.ko.md
 
+![profile](img/profile-256x256.png)
+
 안녕하세요, 2021년 현재 9년차 소프트웨어 엔지니어 유병화 입니다.
-웹 프론트 엔드 개발과 백엔드 서버 개발로 경력을 시작하였고,
-Public Cloud 시대가 열어준 기회로 서버 운영 업무, Infrastructure as code로 인프라 관리,
-Serverless Architecture 설계, 릴리스 엔지니어링, DevOps 등의 업무에도 매력을 느껴
-지금은 다양한 업무로 비지니스에 기여하고 있습니다.
+웹 프론트 엔드 개발과 백엔드 서버 개발, 서버 운영, Infrastructure as code,
+Serverless Architecture, 릴리스 엔지니어링, DevOps 업무 경험이 있습니다.
+각 분야에 모두 각기 다른 매력을 느끼며 다양한 업무를 기반으로한 시너지로
+높은 퍼포먼스를 만들어 비지니스에 기여합니다.
 
 새로운 언어와 프로그래밍 패턴, 도구 사용법을 익히는데 거부감이 없으며,
-지속적으로 스터디 모임에 참가하며 동료들과 함께 성장하기를 좋아합니다.
-성장하고 싶은 욕심이 많아 한 회사를 오래 다녔지만 여러 파트를 거쳐오며,
-다른 파트의 업무를 지원하며 다양한 경험을 할 수 있었습니다.
-
+스터디 모임에 참가하며 동료들과 함께 성장하는 것을 좋아합니다.
 협업하는 상대방을 배려하며 효율적으로 일 할수 있는 환경을 선호하며,
-다양한 오픈소스 활동 경험으로 팀원들과 함께 코드 리뷰로 소통하며
-좋은 제품을 만들어 나가는 문화에 익숙합니다.
+다양한 오픈소스 활동 경험으로 팀원들과 함께 코드 리뷰로 소통하면서
+좋은 제품을 만들어가는 문화에 익숙합니다.
+
+## 취미
+- 토이 프로젝트 개발, 넷플릭스, 운동, 독서, 카페, 고양이 관찰.
 
 ## 학력
 - 서울시립대학교 - 컴퓨터 과학 전공 (2004년 3월 ~ 2013년 2월)
@@ -47,7 +48,7 @@ Serverless Architecture 설계, 릴리스 엔지니어링, DevOps 등의 업무�
 ## 프로젝트
 
 ### Galaxy Store 셀러 포탈, 어드민 포탈 (2021년 6월~)
-- 소개: Galaxy Store 셀러 포탈은 Galaxy Store에 앱 등록시 사용하는 사이트이며, 
+- 소개: Galaxy Store 셀러 포탈은 삼성 전자 Galaxy Store에 앱 등록시 사용하는 사이트이며, 
   어드민 포탈은 앱 검증 및 전시 등 Galaxy Store의 운영을 총괄하는 백 오피스
   사이트.
 - 관련 기술: jQuery, AngularJS, JSP, Java, String, Jeus, AWS, Docsify
@@ -64,7 +65,7 @@ Serverless Architecture 설계, 릴리스 엔지니어링, DevOps 등의 업무�
 - 역할:
     - DevOps 방식으로 API Service 서버, 웹 클라이언트 설계 (기여도 85%)
     - API Service 서버, 웹 클라이언트 개발 (기여도 40%)
-    - API 게이트웨이 역할의 서버에 OAuth 인증 모듈 개발 (기여도 50%)
+    - API 게이트웨이 역할 서버에 OAuth 인증 모듈 개발 (기여도 50%)
     - Facebook 과 B2B API 연동시 mTLS 인증 모듈 구축 (기여도 100%)
 
 ### 게임 런처 GDPR System 인프라 구축 및 개발 (2020년 10월 ~ 12월)
@@ -109,14 +110,14 @@ Serverless Architecture 설계, 릴리스 엔지니어링, DevOps 등의 업무�
 - 소개:
     - 개인 오픈소스 Toy 프로젝트: https://vsa.aluc.io/
     - React, Nextjs 애플리케이션 셋업, 구현, 배포 전 과정을 진행하고,
-      그것을 촬영하여 [유튜브 채널][youtube-video]에 업로드한 프로젝트.
+      그 과정을 설명한 영상을 [유튜브 채널][youtube-video]에 업로드한 프로젝트.
 - 관련 기술: Nextjs, React, Hooks, Sort Algorithm, Element transition, Vercel
 - 역할: 예제 프로젝트 개발 및 유튜브 영상 제작 (기여도 100%)
 - 경험 & 성장한 점:
     - 이해하고 사용하는 것과 설명하는 것에는 큰 차이가 있다는 것을 알게됨.
     - 설명을 다듬으면서 더 깊고 넓게 이해를 확장시킨 경험.
 
-### Pretty text generator (2019년 11월)
+### Pretty text generator (2019년 11월. 이후 유지 보수 중)
 - 소개:
     - 개인 Toy 프로젝트: https://github.com/aluc-io/pretty-text-generator
     - Live: https://pt.aluc.io/
@@ -126,7 +127,7 @@ Serverless Architecture 설계, 릴리스 엔지니어링, DevOps 등의 업무�
 - 관련 기술: Pixijs, HTML5 Canvas, React(Hooks), Redux, ZEIT(Vercel), MUI
 - 역할: 기획, 개발, 운영 모든 부분을 100% 기여.
 
-### Show me the video - 개발기간: 2주 (2019년 2월)
+### Show me the video (2019년 2월)
 - 소개:
     - 개인 Toy 프로젝트: https://github.com/aluc-io/show-me-the-video
     - Live: https://show-me-the-video.herokuapp.com/
@@ -258,11 +259,11 @@ Serverless Architecture 설계, 릴리스 엔지니어링, DevOps 등의 업무�
       리모컨 적외선 신호를 관리하는 협력 업체와 함께 이슈 대응. (기여도 20%)
     - 저사양 장비에서 웹 앱이 Native 앱 만큼의 성능을 내기 위한 최적화. (기여도 100%)
 - 경험 & 성장한 점:
-    - 단말에 기본 탑재되어 2014년 3월에 글로벌 출시.  기획, 디자인, 개발, 검증,
-      협력업체 등 유관 부서와 긴밀하고 신속하게 협업하며 제품 대량 생산 프로세스에 맞춘
-      강도 높은 검증을 통과한 경험.
+    - 단말에 기본 탑재되어 2014년 3월에 글로벌 출시. 삼성 전자 스마트 워치
+      플래그쉽 제품의 대량 생산 프로세스에 맞춘 강도 높은 검증을 통과하기 위해
+      기획, 디자인, 개발, 검증, 협력업체 등 유관 부서와 긴밀하고 신속하게 협업한 경험.
     - 전세계 약 80개국어를 지원하는 앱을 개발하며 다국어 이슈를 해결한 겅험. 수 많은
-      다국어 UI 이슈를 빠르게 해결할 수 있는 디버깅 노하우 습득.
+      다국어 UI 이슈를 빠르게 해결할 수 있는 디버깅 노하우.
 
 ### ePub Viewer 개발 (2013년 4월 ~ 2013년 6월)
 - 소개: 타이젠 스마트폰에 탑재될 ePub Viewer.
@@ -271,6 +272,13 @@ Serverless Architecture 설계, 릴리스 엔지니어링, DevOps 등의 업무�
 - 경험 & 성장한 점:
     - 웹에서 나인 패치 이미지를 활용하는 노하우.
     - 밑줄 긋는 효과를 위해 HTML Element의 Text select, range API 사용 경험.
+
+## 오픈소스 기여
+- CSS-in-JS Babel Plugin
+- Atom Editor
+- Carbon
+- Terraform Next.js module for AWS
+- Terraform Next.js Image Optimization module for AWS
 
 ## 그 외 활동
 
@@ -292,11 +300,13 @@ Serverless Architecture 설계, 릴리스 엔지니어링, DevOps 등의 업무�
 ### CNCF(Cloud Native Computing Foundation) 스터디
 
 
-- [critical-rendering-path]: https://developers.google.com/web/fundamentals/performance/critical-rendering-path
-- [youtube-video]: https://www.youtube.com/watch?v=5SNn82PVGlc&list=PLGdiwDtJBQmdt8YWnH5UixRqsO4PQqn60
-- [gear2]: https://ko.wikipedia.org/wiki/삼성_기어_2
+[critical-rendering-path]: https://developers.google.com/web/fundamentals/performance/critical-rendering-path
+[youtube-video]: https://www.youtube.com/watch?v=5SNn82PVGlc&list=PLGdiwDtJBQmdt8YWnH5UixRqsO4PQqn60
+[gear2]: https://ko.wikipedia.org/wiki/삼성_기어_2
 
 <!--
+## References
 - https://github.com/thumbsu/resume
 - https://github.com/asbubam/resume
+- https://github.com/JSpiner/RESUME
 -->
