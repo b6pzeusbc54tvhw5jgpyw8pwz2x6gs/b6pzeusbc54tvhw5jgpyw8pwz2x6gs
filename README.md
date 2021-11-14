@@ -7,8 +7,7 @@
 - 능력 향상을 위한 다양한 도구들을 잘 사용합니다.
 
 ## Resume
-- [ko](./RESUME.ko.md) 
-- [en](./RESUME.en.md) 
+- [ko](./RESUME.ko.md)
 
 ## 💌 Contact
 
