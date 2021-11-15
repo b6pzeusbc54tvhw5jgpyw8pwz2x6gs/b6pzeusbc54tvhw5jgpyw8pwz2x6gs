@@ -28,12 +28,12 @@ Serverless Architecture, 릴리스 엔지니어링, DevOps 업무 경험이 있�
     - DevOps 방식으로 인프라 스트럭쳐 구축 운영 및 서버 개발.
     - 갤럭시 스토어 백엔드 어드민 서버 개발.
     - 갤럭시 스토어 Open API Service 인증 서버 및 Proxy 기능 개발.
-- 삼성전자 무선 사업부, 게임 서비스 그룹, 스토어 플랫폼 파트 (2019년 1월 ~ 2021년 2월)
+- 삼성전자 무선 사업부, 게임 서비스 그룹, 스토어 플랫폼 파트 (2017년 8월 ~ 2021년 2월)
     - Galaxy Store 마케팅웹 Serverless architecture 설계 및 개발.
     - Galaxy Store API 서버 개발.
     - Big Data 처리를 위한 Scala 배치 프로그램 개발.
     - 게임 런처 GDPR System 인프라 구축 및 개발.
-- 삼성전자 무선 사업부, 클라우드 플랫폼 그룹, 앱 스토어 서버 파트 (2014년 12월 ~ 2016년 2월)
+- 삼성전자 무선 사업부, 클라우드 플랫폼 그룹, 앱 스토어 서버 파트 (2014년 12월 ~ 2017년 7월)
     - Galaxy Store 기어 앱 스토어 웹 프론트엔드 개발.
     - Bixby 발화 태깅 툴 개발.
 - 삼성전자 미디어 솔루션 센터, Client 개발 그룹 (2013년 4월 ~ 2014년 11월)
@@ -41,7 +41,7 @@ Serverless Architecture, 릴리스 엔지니어링, DevOps 업무 경험이 있�
     - 타이젠 스마트 워치 웹 앱 개발.
     - 타이젠 TV 웹 앱 개발.
     - Desktop PC 용 웹 앱 개발.
-- 삼성전자 무선 사업부, Samsung Linux Platform 개발 그룹 인턴 (2012년 2월 ~ 2014년 4월)
+- 삼성전자 무선 사업부, Samsung Linux Platform 개발 그룹 인턴 (2012년 1월 ~ 2012년 2월)
     - 타이젠 스마트폰 애플리케이션 개발.
     - Javascript 개발 스터디 참석.
 
