@@ -23,6 +23,10 @@ Serverless Architecture, 릴리스 엔지니어링, DevOps 업무 경험이 있�
 ## 학력
 - 서울시립대학교 - 컴퓨터 과학 전공 (2004년 3월 ~ 2013년 2월)
 
+## 자격
+- AWS Certifed Solutions Architect(Associate) (2017년 7월)
+- 삼성전자 사내 SW Certificate Professional (2021년 9월)
+
 ## 경력
 - 삼성전자 무선 사업부, 서비스 개발 그룹, 스토어 백엔드 플랫폼 파트 (2021년 3월 ~ )
     - DevOps 방식으로 인프라 스트럭쳐 구축 운영 및 서버 개발.
@@ -233,8 +237,6 @@ Serverless Architecture, 릴리스 엔지니어링, DevOps 업무 경험이 있�
       구축 운영하며 AWS, Docker 등 많은 Cloud 플랫폼을 경험함.
     - 개발 환경 효율화 덕분에 적기에 글로벌 출시를 할 수 있었고,
       이후 대규모 작업도 순조롭게 진행하며 개발 환경의 중요성을 느낌.
-    - 직접 AWS에서 GitLab, GitLabCI, Mattermost를 운영하면서 AWS 인프라와 업무에도
-      관심이 생겨 AWS Certifed Solutions Architect(Associate) 취득.
     - Storybook 도입으로 UI와 비지니스 로직 개발 부서간 분업 효율을 개선시킨 경험.
 
 ### Milk 개발 Web, Tizen TV, 기어 S 버전 (2014년 5월 ~ 2014년 10월)
@@ -274,11 +276,28 @@ Serverless Architecture, 릴리스 엔지니어링, DevOps 업무 경험이 있�
     - 밑줄 긋는 효과를 위해 HTML Element의 Text select, range API 사용 경험.
 
 ## 오픈소스 기여
-- CSS-in-JS Babel Plugin
-- Atom Editor
-- Carbon
 - Terraform Next.js module for AWS
+    - https://github.com/milliHQ/terraform-aws-next-js/pull/211
+    - https://github.com/milliHQ/terraform-aws-next-js/pull/208
+    - https://github.com/milliHQ/terraform-aws-next-js/pull/206
+    - https://github.com/milliHQ/terraform-aws-next-js/pull/192
+    - https://github.com/milliHQ/terraform-aws-next-js/pull/187
+    - https://github.com/milliHQ/terraform-aws-next-js/pull/185
 - Terraform Next.js Image Optimization module for AWS
+    - https://github.com/milliHQ/terraform-aws-next-js-image-optimization/pull/13
+- Carbon
+    - https://github.com/carbon-app/carbon/pull/949
+- Atom Editor
+    - https://github.com/atom/atom/pull/10967
+- CSS-in-JS Babel Plugin
+    - https://github.com/martinandert/babel-plugin-css-in-js/pull/15
+- Gastby 문서 한글화
+    - https://github.com/gatsbyjs/gatsby-ko/pull/18
+    - https://github.com/gatsbyjs/gatsby-ko/pull/7
+    - https://github.com/gatsbyjs/gatsby-ko/pull/3
+- 구름입력기 (Financial contributor)
+    - https://github.com/gureum/gureum/issues/535
+    - https://github.com/gureum/gureum/issues/515
 
 ## 그 외 활동
 
@@ -291,14 +310,17 @@ Serverless Architecture, 릴리스 엔지니어링, DevOps 업무 경험이 있�
 ### Docker & DevOps slide
 - https://aluc.io/slide/docker-devops/index.html#1
 
-### React 세미나
+### 사내 React 세미나 강사 (2021년 4월. 총 13회)
 
-### Spark 스터디
+### 스터디 - Spark with Python (2020년 7월)
 
-### 쿠버네티스 패턴 스터디
+### 스터디 - 쿠버네티스 패턴 (2020년 5월)
 
-### CNCF(Cloud Native Computing Foundation) 스터디
+### 스터디 - 마이크로서비스 아키텍쳐 (2020년 3월)
 
+### 스터디 - 시스템 성능 분석과 최적화 (2020년 1월)
+
+### 스터디 - 사이트 신뢰성 엔지니어링(feat. CNCF) (2019년 1월)
 
 [critical-rendering-path]: https://developers.google.com/web/fundamentals/performance/critical-rendering-path
 [youtube-video]: https://www.youtube.com/watch?v=5SNn82PVGlc&list=PLGdiwDtJBQmdt8YWnH5UixRqsO4PQqn60
