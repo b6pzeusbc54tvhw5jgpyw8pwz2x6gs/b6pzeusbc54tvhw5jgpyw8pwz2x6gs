@@ -24,8 +24,9 @@ Serverless Architecture, 릴리스 엔지니어링, DevOps 업무 경험이 있�
 - 서울시립대학교 - 컴퓨터 과학 전공 (2004년 3월 ~ 2013년 2월)
 
 ## 자격
-- AWS Certifed Solutions Architect(Associate) (2017년 7월)
 - 삼성전자 사내 SW Certificate Professional (2021년 9월)
+- AWS Certifed Solutions Architect(Associate) (2017년 7월)
+- 정보처리 기사 (2011년 7월 24일)
 
 ## 경력
 - 삼성전자 무선 사업부, 서비스 개발 그룹, 스토어 백엔드 플랫폼 파트 (2021년 3월 ~ )

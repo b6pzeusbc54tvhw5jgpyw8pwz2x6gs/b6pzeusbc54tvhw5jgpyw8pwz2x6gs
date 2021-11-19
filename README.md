@@ -4,7 +4,6 @@
 - 우아한 방법으로 문제를 해결합니다.
 - 성공을 위한 빠른 실행과 실패를 좋아합니다.
 - 작품 같은 제품을 만들기 위해 늘 고민합니다.
-- 능력 향상을 위한 다양한 도구들을 잘 사용합니다.
 
 ## Resume
 - [ko](./RESUME.ko.md)
@@ -63,6 +62,7 @@ The order is what I like the most or I am good at.
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
+### Programming
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
