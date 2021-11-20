@@ -323,6 +323,10 @@ Serverless Architecture, 릴리스 엔지니어링, DevOps 업무 경험이 있�
 
 ### 스터디 - 사이트 신뢰성 엔지니어링(feat. CNCF) (2019년 1월)
 
+### Open Container Seoul Metetup 발표 - BLUE-GREEN deployment (2016년 11월)
+- https://www.youtube.com/watch?v=4rioK4taRzk
+- https://www.slideshare.net/AlfredUC/bluegreen-deployment-with-nginx
+
 [critical-rendering-path]: https://developers.google.com/web/fundamentals/performance/critical-rendering-path
 [youtube-video]: https://www.youtube.com/watch?v=5SNn82PVGlc&list=PLGdiwDtJBQmdt8YWnH5UixRqsO4PQqn60
 [gear2]: https://ko.wikipedia.org/wiki/삼성_기어_2
