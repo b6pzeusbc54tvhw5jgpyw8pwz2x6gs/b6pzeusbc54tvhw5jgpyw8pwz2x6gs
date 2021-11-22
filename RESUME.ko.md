@@ -111,41 +111,6 @@ Serverless Architecture, 릴리스 엔지니어링, DevOps 업무 경험이 있�
     - CI/CD를 구축, 하루에도 몇번씩 안전하게 운영환경에 배포 가능한 환경을 만듦.
       레거시한 코드 뿐만 아니라 오래된 개발/운영 프로세스도 크게 개선시킨 경험.
 
-### Visualized sort algorithm (2019년 12월 ~ 2020년 5월)
-- 소개:
-    - 개인 오픈소스 Toy 프로젝트: https://vsa.aluc.io/
-    - React, Nextjs 애플리케이션 셋업, 구현, 배포 전 과정을 진행하고,
-      그 과정을 설명한 영상을 [유튜브 채널][youtube-video]에 업로드한 프로젝트.
-- 관련 기술: Nextjs, React, Hooks, Sort Algorithm, Element transition, Vercel
-- 역할: 예제 프로젝트 개발 및 유튜브 영상 제작 (기여도 100%)
-- 경험 & 성장한 점:
-    - 이해하고 사용하는 것과 설명하는 것에는 큰 차이가 있다는 것을 알게됨.
-    - 설명을 다듬으면서 더 깊고 넓게 이해를 확장시킨 경험.
-
-### Pretty text generator (2019년 11월. 이후 유지 보수 중)
-- 소개:
-    - 개인 Toy 프로젝트: https://github.com/aluc-io/pretty-text-generator
-    - Live: https://pt.aluc.io/
-    - 512x512 사이즈의 멋진 텍스트 프로필을 만들어주는 툴.
-      슬랙 봇이나 GitHub 봇 등의 프로필 이미지를 등록할 때 쓰려고 만들었는데
-      사진을 등록하기 수줍어하는 사람 친구들도 많이 사용해서 뿌듯했었음. 
-- 관련 기술: Pixijs, HTML5 Canvas, React(Hooks), Redux, ZEIT(Vercel), MUI
-- 역할: 기획, 개발, 운영 모든 부분을 100% 기여.
-
-### Show me the video (2019년 2월)
-- 소개:
-    - 개인 Toy 프로젝트: https://github.com/aluc-io/show-me-the-video
-    - Live: https://show-me-the-video.herokuapp.com/
-    - 유튜브를 사용할 수 없는 환경에서 영상을 효과적으로
-      공유하기위한 "Mini Youtube as code" 프로젝트.
-    - Markdown 파일에 영상의 url과 영상 설명을 작성하면,
-      영상 목록 페이지와 디테일 페이지를 제공해주는 사이트.
-- 관련 기술: Nextjs, Heroku, git, 반응형 UI(CSS flex, grid-template)
-- 역할: 기획, 개발, 운영 모든 부분을 100% 기여.
-- 경험 & 성장한 점:
-    - 반응형 UI를 최신 웹 기술 스택을 사용하여 직접 개발해보면서
-      모던 웹 UI 컴포넌트들(MUI 등)을 더욱 깊게 이해하게됨.
-
 ### Galaxy Store API 서버 GDPR 처리 시스템 (2017년 8월 ~ 2019월 1월)
 - 소개: Galaxy Store API 서버의 GDPR 법률 요청 처리를 위한 시스템.
 - 관련 기술: AWS lambda, ECS, ECR, S3, Python, Docker, Terraform, Serverless framework
@@ -180,34 +145,6 @@ Serverless Architecture, 릴리스 엔지니어링, DevOps 업무 경험이 있�
     - 한국어, 영어 일본어 중국어 스페인어, 독일어 총 6개 언어에 대한
       발화 입력 및 태깅 툴로 전세계 많은 작업자들의 니즈를 해결해주며
       작업 효율을 개선시킨 경험.
-
-### request-animation-frame-polyfill (2016년 4월 ~ 이후 유지 보수 중)
-- 소개:
-    - 개인 오픈소스 Toy 프로젝트: https://github.com/aluc-io/request-animation-frame-polyfill
-    - NPM Weekly Downloads: 2,536
-    - `window.requestAnimationFrame` API를 직접 setTimeout으로 구현,
-      해당 API가 미구현된 구버전 브라우저나 Nodejs 환경에서 에러를 방지하고
-      동작 가능하게 만들어주는 Javascript 패키지.
-- 관련 기술: `window.requestAnimationFrame`, NPM, rollup, babel
-- 역할: 기획, 개발, 운영 모든 부분을 100% 기여.
-- 경험 & 성장한 점:
-    - NPM 에 publish 한 뒤 얼마 후 확인 하였을 때 사용자가 생각보다 많아
-      오픈 소스 유지 보수에 책임감이 생겼던 경험.
-
-### tweening-js (2016년 1월 ~ 이후 유지 보수 중)
-- 소개:
-    - 개인 오픈소스 Toy 프로젝트: https://github.com/aluc-io/tweening-js
-    - 웹 프레임워크에 종속 없는 트랜지션 애니메이션 구현을 도와주는 라이브러리.
-- 관련 기술: Web, requestAnimationFrame, Easing functions, jest, coveralls, CirlcCI, NPM
-- 역할: 프로젝트 설계 및 개발, 문서화 (기여도 100%)
-- 경험 & 성장한 점:
-    - 웹에서 간단한 Element 트랜지션 애니메이션 효과를 구현하기위해
-      기능이 많은 무거운 라이브러리를 임포트하는것이 부담되어 개발한
-      오픈소스 라이브러리.
-    - 여러 웹 프레임워크에서 제공해주는 방법과 전문 패키지들의 대한 선호로
-      잘 사용하지는 않게됨. 하지만 프레임워크의 종속 없이 가볍게
-      트랜지션 효과만을 구현하려고 할 때 여전히 사용하고있음.
-    - 초기에 TravisCI 사용 후 지금은 CircleCI로 전환, 여러 CI 서비스를 경험.
 
 ### Galaxy Store 기어 앱 스토어 (2014년 12월 ~ 2016년 9월, 이후 유지 보수 중)
 - 소개: Galaxy 스마트폰 유저 외 타사 Android 폰과 iPhone 유저들의
@@ -255,6 +192,7 @@ Serverless Architecture, 릴리스 엔지니어링, DevOps 업무 경험이 있�
 ### WatchOn Remote 개발 (2013년 7월 ~ 2014년 3월)
 - 소개: 삼성 스마트 워치 [Gear2](gear2)에 기본 탑재 되는 WatchOn Remote 앱.
   적외선 센서로 TV, 셋탑박스, 에어콘 등 전세계 거의 모든 장비를 컨트롤 할 수 있는 앱.
+  2014년 3월에 글로벌 출시된 Gear2에 기본 탑재 앱.
 - 관련 기술: Javascript, HTML5, CSS3, [Critical rendering path](critical-rendering-path) 최적화.
 - 역할:
     - 웹 프론트 앱 설계, 비지니스 로직, UI 개발. (기여도 90%)
@@ -262,9 +200,8 @@ Serverless Architecture, 릴리스 엔지니어링, DevOps 업무 경험이 있�
       리모컨 적외선 신호를 관리하는 협력 업체와 함께 이슈 대응. (기여도 20%)
     - 저사양 장비에서 웹 앱이 Native 앱 만큼의 성능을 내기 위한 최적화. (기여도 100%)
 - 경험 & 성장한 점:
-    - 단말에 기본 탑재되어 2014년 3월에 글로벌 출시. 삼성 전자 스마트 워치
-      플래그쉽 제품의 대량 생산 프로세스에 맞춘 강도 높은 검증을 통과하기 위해
-      기획, 디자인, 개발, 검증, 협력업체 등 유관 부서와 긴밀하고 신속하게 협업한 경험.
+    - 삼성 전자 플래그쉽 제품의 대량 생산 프로세스에 맞춘 강도 높은 검증을 통과하기 위해
+      기획, 디자인, 개발, 검증, 협력업체 등의 유관 부서와 긴밀하고 신속하게 협업한 경험.
     - 전세계 약 80개국어를 지원하는 앱을 개발하며 다국어 이슈를 해결한 겅험. 수 많은
       다국어 UI 이슈를 빠르게 해결할 수 있는 디버깅 노하우.
 
@@ -276,7 +213,95 @@ Serverless Architecture, 릴리스 엔지니어링, DevOps 업무 경험이 있�
     - 웹에서 나인 패치 이미지를 활용하는 노하우.
     - 밑줄 긋는 효과를 위해 HTML Element의 Text select, range API 사용 경험.
 
-## 오픈소스 기여
+## 오픈 소스 개발
+
+### Visualized sort algorithm (2019년 12월 ~ 2020년 5월)
+- 소개:
+    - 개인 오픈소스 Toy 프로젝트: https://vsa.aluc.io/
+    - React, Nextjs 애플리케이션 셋업, 구현, 배포 전 과정을 진행하고,
+      그 과정을 설명한 영상을 [유튜브 채널][youtube-video]에 업로드한 프로젝트.
+- 관련 기술: Nextjs, React, Hooks, Sort Algorithm, Element transition, Vercel
+- 역할: 예제 프로젝트 개발 및 유튜브 영상 제작 (기여도 100%)
+- 경험 & 성장한 점:
+    - 이해하고 사용하는 것과 설명하는 것에는 큰 차이가 있다는 것을 알게됨.
+    - 설명을 다듬으면서 더 깊고 넓게 이해를 확장시킨 경험.
+
+### Pretty text generator (2019년 11월. 이후 유지 보수 중)
+- 소개:
+    - 개인 Toy 프로젝트: https://github.com/aluc-io/pretty-text-generator
+    - Live: https://pt.aluc.io/
+    - 512x512 사이즈의 멋진 텍스트 프로필을 만들어주는 툴.
+      슬랙 봇이나 GitHub 봇 등의 프로필 이미지를 등록할 때 쓰려고 만들었는데
+      사진을 등록하기 수줍어하는 사람 친구들도 많이 사용해서 뿌듯했었음. 
+- 관련 기술: Pixijs, HTML5 Canvas, React(Hooks), Redux, ZEIT(Vercel), MUI
+- 역할: 기획, 개발, 운영 모든 부분을 100% 기여.
+- 경험 & 성장한 점:
+    - PixiJS를 통해 HTML5 Canvas 개발 및 디버깅 경험.
+
+### Show me the video (2019년 2월)
+- 소개:
+    - 개인 Toy 프로젝트: https://github.com/aluc-io/show-me-the-video
+    - Live: https://show-me-the-video.herokuapp.com/
+    - 유튜브를 사용할 수 없는 환경에서 영상을 효과적으로
+      공유하기위한 "Mini Youtube as code" 프로젝트.
+    - Markdown 파일에 영상의 url과 영상 설명을 작성하면,
+      영상 목록 페이지와 디테일 페이지를 제공해주는 사이트.
+- 관련 기술: Nextjs, Heroku, git, 반응형 UI(CSS flex, grid-template)
+- 역할: 기획, 개발, 운영 모든 부분을 100% 기여.
+- 경험 & 성장한 점:
+    - 최신 웹 UI 기술 스택인 Material-UI, styled-components 등을 사용한 반응형 UI 개발 경험.
+
+### react-utterances (2018년 9월)
+- 소개:
+    - 개인 Toy 프로젝트: https://github.com/b6pzeusbc54tvhw5jgpyw8pwz2x6gs/react-utterances
+    - Live: https://kwk5x0nyr7.codesandbox.io/my-first-post
+    - GitHub 이슈 기능을 활용한 댓글 위젯 [utterances](https://utteranc.es/)의 React Component.
+- 관련 기술: React, Lerna, NPM, CircleCI, GitHub App
+- 역할: 기획, 개발, 운영 모든 부분을 100% 기여.
+- 경험 & 성장한 점:
+    - NPM으로 배포되는 React Component 개발 경험.
+    - 모노레포 관리 경험.
+
+### dnsever-ddns-updater (2016년 1월)
+- 소개:
+    - 개인 Toy 프로젝트: https://github.com/b6pzeusbc54tvhw5jgpyw8pwz2x6gs/dnsever-ddns-updater
+    - dnsever.com 서비스 유저를 위한 IP 변경에 따른 DNS Record 자동 업데이트 프로그램.
+    - dnsever.com 에서 공지로 프로그램이 소개되고, 주간 다운로드 수 최고 670건 기록.
+- 관련 기술: Nodejs, PM2
+- 역할: 기획, 개발, 운영 모든 부분을 100% 기여.
+- 경험 & 성장한 점:
+    - 서버에서 실행되는 Nodejs 프로그램 개발 밈 PM2 기반의 Nodejs 프로세스 관리 경험.
+
+### request-animation-frame-polyfill (2016년 4월 ~ 이후 유지 보수 중)
+- 소개:
+    - 개인 오픈소스 Toy 프로젝트: https://github.com/aluc-io/request-animation-frame-polyfill
+    - NPM Weekly Downloads: 2,536
+    - `window.requestAnimationFrame` API를 직접 setTimeout으로 구현,
+      해당 API가 미구현된 구버전 브라우저나 Nodejs 환경에서 에러를 방지하고
+      동작 가능하게 만들어주는 Javascript 패키지.
+- 관련 기술: `window.requestAnimationFrame`, NPM, rollup, babel
+- 역할: 기획, 개발, 운영 모든 부분을 100% 기여.
+- 경험 & 성장한 점:
+    - NPM 에 publish 한 뒤 얼마 후 확인 하였을 때 사용자가 생각보다 많아
+      오픈 소스 유지 보수에 책임감이 생겼던 경험.
+
+### tweening-js (2016년 1월 ~ 이후 유지 보수 중)
+- 소개:
+    - 개인 오픈소스 Toy 프로젝트: https://github.com/aluc-io/tweening-js
+    - 웹 프레임워크에 종속 없는 트랜지션 애니메이션 구현을 도와주는 라이브러리.
+- 관련 기술: Web, requestAnimationFrame, Easing functions, jest, coveralls, CirlcCI, NPM
+- 역할: 프로젝트 설계 및 개발, 문서화 (기여도 100%)
+- 경험 & 성장한 점:
+    - 웹에서 간단한 Element 트랜지션 애니메이션 효과를 구현하기위해
+      기능이 많은 무거운 라이브러리를 임포트하는것이 부담되어 개발한
+      오픈소스 라이브러리.
+    - 여러 웹 프레임워크에서 제공해주는 방법과 전문 패키지들의 대한 선호로
+      잘 사용하지는 않게됨. 하지만 프레임워크의 종속 없이 가볍게
+      트랜지션 효과만을 구현하려고 할 때 여전히 사용하고있음.
+    - 초기에 TravisCI 사용 후 지금은 CircleCI로 전환, 여러 CI 서비스를 경험.
+
+## 오픈 소스 기여
+
 - Terraform Next.js module for AWS
     - https://github.com/milliHQ/terraform-aws-next-js/pull/211
     - https://github.com/milliHQ/terraform-aws-next-js/pull/208
@@ -287,6 +312,7 @@ Serverless Architecture, 릴리스 엔지니어링, DevOps 업무 경험이 있�
 - Terraform Next.js Image Optimization module for AWS
     - https://github.com/milliHQ/terraform-aws-next-js-image-optimization/pull/13
 - Carbon
+    - Contributor
     - https://github.com/carbon-app/carbon/pull/949
 - Atom Editor
     - https://github.com/atom/atom/pull/10967
@@ -299,29 +325,69 @@ Serverless Architecture, 릴리스 엔지니어링, DevOps 업무 경험이 있�
 - 구름입력기 (Financial contributor)
     - https://github.com/gureum/gureum/issues/535
     - https://github.com/gureum/gureum/issues/515
+- reduxjs/reselect
+    - https://github.com/reduxjs/reselect/pull/210
 
 ## 그 외 활동
 
-### 개발 관련 Youtube 채널 운영
+### SW 개발 주제로 Youtube 채널 운영
 - 커밋한잔 유튜브 채널 운영: https://www.youtube.com/c/ACupofCommit
 
-### CircleCI vs GitLabCI slide
+### 사내 그룹 React 세미나 강사 (2021년 4월)
+- 온/오프라인으로 매회 50분 강의 총 13회. 커리큘럼:
+    1. 소개, npm, create-react-app, hello world AWS 배포, 사내 React 개발 환경 가이드
+    2. jsx, 컴포넌트, props, state, lifecycle methods
+    3. map() 반복문, 이벤트 처리
+    4. Styling, semantic-ui, material-ui
+    5. 서버 API 사용, callback, promise, async/await
+    6. Hooks (1/2)
+    7. Hooks (2/2)
+    8. State management (redux, zustand, recoil 등)
+    9. 미니 프로젝트에 Hooks, state management 적용
+    10. Jest unit test, Storybook
+    11. (Nextjs) 소개, create-next-app, typescript 적용, 페이지 레이아웃, Dynamic Routes, hello world AWS 배포.
+    12. (Nextjs) SSR, Automatic Static Optimization, getInitialProps, getServerSideProps, ... , `_app`, `_document`
+    13. (Nextjs) 에러페이지, 환경 변수, Dynamic import
+
+### 발표 자료 - CircleCI vs GitLabCI slide (2020년 1월~)
 - https://aluc.io/slide/gitlabci-vs-circleci/index.html#1
 
-### Docker & DevOps slide
+### 스터디 - Spark with Python (2020년 7월~)
+- https://www.notion.so/Spark-with-Python-dea87f17d10c4d4cae446eda659284ae
+
+### 스터디 - 쿠버네티스 패턴 (2020년 5월~)
+- https://www.notion.so/44bits/2020-05-901158ed776547d8bac0c6bf6145ea64
+
+### 스터디 - 마이크로서비스 아키텍쳐 (2020년 3월~)
+- https://www.notion.so/44bits/2020-03-b4eaa426d275428a820e98ed74849da6
+
+### 스터디 - 시스템 성능 분석과 최적화 (2020년 1월~)
+- https://www.notion.so/44bits/2020-01-8fe073a736bd4cbfa7a937a4f088a0c2
+
+### 스터디 - 사이트 신뢰성 엔지니어링(feat. CNCF) (2019년 2월~)
+- https://www.notion.so/44bits/2019-01-72d942e3a446445a8a696c209f2db3fb
+
+### 스터디 - Cloud Native Infrastructure (2019년 1월)
+- https://www.notion.so/44bits/2019-01-72d942e3a446445a8a696c209f2db3fb
+
+### 발표 자료 - Docker & DevOps slide (2018년 9월)
 - https://aluc.io/slide/docker-devops/index.html#1
 
-### 사내 React 세미나 강사 (2021년 4월. 총 13회)
+### 스터디 - Microservice x Kubernetes (feat. CNCF) (2018년 1월~)
+- https://paper.dropbox.com/folder/show/microservice-x-kubernetes-study-e.iX7ZavGxujPFwhjOZcQqx0sPS7rxiwoMsezLUMQI62EoPiAheQ
 
-### 스터디 - Spark with Python (2020년 7월)
+### 사내 팀 신입 사원 서버 개발 업무 교육 강사 (2017년 11월~)
+- AWS, Spring, Nodejs, Web, Git, Docker, Terraform, Proxy 주제로 교육
 
-### 스터디 - 쿠버네티스 패턴 (2020년 5월)
+### 스터디 - The Twelve-Factor App (2017년 8월)
+- https://12factor.net/
+- https://the-twelve-factor-app.herokuapp.com/
 
-### 스터디 - 마이크로서비스 아키텍쳐 (2020년 3월)
+### 스터디 - TCP/IP 쉽게 더 쉽게 (2017년 7월~)
+- https://paper.dropbox.com/folder/show/study-tcp-ip-e.iX7ZavGxujPFwhjOZcQsjuD1XUL9krjtq4hL1fWQQ03qTtgcQI
 
-### 스터디 - 시스템 성능 분석과 최적화 (2020년 1월)
-
-### 스터디 - 사이트 신뢰성 엔지니어링(feat. CNCF) (2019년 1월)
+### 스터디 - Infrastructure as Code (2017년 6월~)
+- https://paper.dropbox.com/folder/show/Infrastructure-as-Code-e.iX7ZavGxujPFwhjOZcQs9GyWabf3rfttGfyIz3HxguZl4pJBKd
 
 ### Open Container Seoul Metetup 발표 - BLUE-GREEN deployment (2016년 11월)
 - https://www.youtube.com/watch?v=4rioK4taRzk
