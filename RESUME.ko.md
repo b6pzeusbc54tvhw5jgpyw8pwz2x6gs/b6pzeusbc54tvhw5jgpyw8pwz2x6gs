@@ -1,7 +1,7 @@
 # 유병화 (Alfred, Yoo)
 
 > 본 이력서는 아래 주소에서 최신 업데이트본을 확인 할 수 있습니다:
-> https://github.com/b6pzeusbc54tvhw5jgpyw8pwz2x6gs/b6pzeusbc54tvhw5jgpyw8pwz2x6gs/blob/add-resume/RESUME.ko.md
+> https://github.com/b6pzeusbc54tvhw5jgpyw8pwz2x6gs/b6pzeusbc54tvhw5jgpyw8pwz2x6gs/blob/main/RESUME.ko.md
 
 ![profile](img/profile-256x256.png)
 
