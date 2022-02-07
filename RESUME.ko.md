@@ -314,14 +314,17 @@ Serverless Architecture, 릴리스 엔지니어링, DevOps 업무 경험이 있�
 - Carbon
     - Contributor
     - https://github.com/carbon-app/carbon/pull/949
-- Atom Editor
-    - https://github.com/atom/atom/pull/10967
-- CSS-in-JS Babel Plugin
-    - https://github.com/martinandert/babel-plugin-css-in-js/pull/15
 - Gastby 문서 한글화
     - https://github.com/gatsbyjs/gatsby-ko/pull/18
     - https://github.com/gatsbyjs/gatsby-ko/pull/7
     - https://github.com/gatsbyjs/gatsby-ko/pull/3
+- Atom Editor
+    - https://github.com/atom/atom/pull/10967
+- CSS-in-JS Babel Plugin
+    - https://github.com/martinandert/babel-plugin-css-in-js/pull/15
+- Babel plugin handbook 한글 번역
+    - https://crowdin.com/project/babel-plugin-handbook/ko#/master
+    - https://github.com/jamiebuilds/babel-handbook/tree/master/translations/ko
 - 구름입력기 (Financial contributor)
     - https://github.com/gureum/gureum/issues/535
     - https://github.com/gureum/gureum/issues/515
