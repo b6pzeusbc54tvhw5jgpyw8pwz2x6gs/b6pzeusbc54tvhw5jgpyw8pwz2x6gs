@@ -190,10 +190,10 @@ Serverless Architecture, 릴리스 엔지니어링, DevOps 업무 경험이 있�
       마치 휠을 회전시키는 느낌을 주며 음악을 선택하는 고도화된 UI 개발 경험.
 
 ### WatchOn Remote 개발 (2013년 7월 ~ 2014년 3월)
-- 소개: 삼성 스마트 워치 [Gear2](gear2)에 기본 탑재 되는 WatchOn Remote 앱.
+- 소개: 삼성 스마트 워치 [Gear2](https://ko.wikipedia.org/wiki/삼성_기어_2)에 기본 탑재 되는 WatchOn Remote 앱.
   적외선 센서로 TV, 셋탑박스, 에어콘 등 전세계 거의 모든 장비를 컨트롤 할 수 있는 앱.
   2014년 3월에 글로벌 출시된 Gear2에 기본 탑재 앱.
-- 관련 기술: Javascript, HTML5, CSS3, [Critical rendering path](critical-rendering-path) 최적화.
+- 관련 기술: Javascript, HTML5, CSS3, [Critical rendering path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path)) 최적화.
 - 역할:
     - 웹 프론트 앱 설계, 비지니스 로직, UI 개발. (기여도 90%)
     - 전세계 제조사의 다양한 장비와 호환 가능한 앱 개발을 위해
@@ -219,7 +219,7 @@ Serverless Architecture, 릴리스 엔지니어링, DevOps 업무 경험이 있�
 - 소개:
     - 개인 오픈소스 Toy 프로젝트: https://vsa.aluc.io/
     - React, Nextjs 애플리케이션 셋업, 구현, 배포 전 과정을 진행하고,
-      그 과정을 설명한 영상을 [유튜브 채널][youtube-video]에 업로드한 프로젝트.
+      그 과정을 설명한 영상을 [유튜브 채널](https://www.youtube.com/watch?v=5SNn82PVGlc&list=PLGdiwDtJBQmdt8YWnH5UixRqsO4PQqn60)에 업로드한 프로젝트.
 - 관련 기술: Nextjs, React, Hooks, Sort Algorithm, Element transition, Vercel
 - 역할: 예제 프로젝트 개발 및 유튜브 영상 제작 (기여도 100%)
 - 경험 & 성장한 점:
@@ -399,9 +399,6 @@ Serverless Architecture, 릴리스 엔지니어링, DevOps 업무 경험이 있�
 - https://www.youtube.com/watch?v=4rioK4taRzk
 - https://www.slideshare.net/AlfredUC/bluegreen-deployment-with-nginx
 
-[critical-rendering-path]: https://developers.google.com/web/fundamentals/performance/critical-rendering-path
-[youtube-video]: https://www.youtube.com/watch?v=5SNn82PVGlc&list=PLGdiwDtJBQmdt8YWnH5UixRqsO4PQqn60
-[gear2]: https://ko.wikipedia.org/wiki/삼성_기어_2
 
 <!--
 ## References
